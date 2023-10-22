@@ -1,4 +1,5 @@
 # Vite Plugin for Lit JSX Support
+> The library don't work the moment because of an error that I will fix later.
 
 This Vite plugin adds JSX and TSX support for Lit components, enabling you to use JSX syntax and TypeScript within your Lit web components.
 
